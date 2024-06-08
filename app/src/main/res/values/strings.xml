@@ -1,0 +1,22 @@
+<resources>
+    <string name="clear">Clear</string>
+    <string name="backspace">Backspace</string>
+    <string name="percent">Percent</string>
+    <string name="divide">Divide</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="multiply">Multiply</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="plus">Plus</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="minus">Minus</string>
+    <string name="all_clear">All Clear</string>
+    <string name="zero">Zero</string>
+    <string name="dot">Dot</string>
+    <string name="equals">Equals</string>
+</resources>

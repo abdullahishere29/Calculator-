@@ -1,0 +1,15 @@
+<resources>
+    <!-- Existing colors -->
+    <color name="darkBackground">#000000</color>
+    <color name="grey">#A0A0A0</color>
+    <color name="darkGrey">#333333</color>
+    <color name="orange">#FFA500</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Missing colors -->
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="btnBackground2">#FF5722</color>
+</resources>
